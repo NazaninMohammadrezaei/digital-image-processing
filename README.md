@@ -4,7 +4,7 @@
 Here we can see some of the projects I have done during my Digital Image Processing course <br /> spring 2021
 
 ## 🔖 Homework 1 
-- Goal : Find the best filter to eemove the image noise 
+- Goal: Find the best filter to eemove the image noise 
 - Applying the listed filters on the image to see what will happen: 
        1. Averaging filter
        2. Median filter
@@ -17,7 +17,7 @@ Here we can see some of the projects I have done during my Digital Image Process
 ![Figure_1](https://user-images.githubusercontent.com/88426435/137598918-c16b2a50-b8be-4e08-92c9-49d6df3acf1a.png)
 
 ## 🔖 Homework 2
-- Goal : Motion detection while comparing three images taken by NASA
+- Goal: Motion detection while comparing three images taken by NASA
 - Applying bit plane slicing
 - Motion detection
 - Bit plane slicing on the image of an electrical board
@@ -25,16 +25,23 @@ Here we can see some of the projects I have done during my Digital Image Process
 ![Figure_1](https://user-images.githubusercontent.com/88426435/137601504-946d66dd-d9ca-4b55-9721-adbd1a2406ae.png)
 
 - Motion Detection : We compared 3 images with the help of their mostsignificate planes extracted through Bit plane slicing 
-- As we can see the difference of image NASA B and NASA C includes more white points, So the object movement was more considerable 
+- As we can see the difference of image NASA_B and NASA_C includes more white points, So the object movement was more considerable 
 
 ![Figure_1](https://user-images.githubusercontent.com/88426435/137601630-1986f440-2a9f-43c2-8654-723d86adb999.png)
 
 ## 🔖 Homework 3
-- Detect Cells in this biomedical image by applying a circle detection algorithm
+- Goal: Detect Cells in this biomedical image by applying a circle detection algorithm
 - Applying Canny filter to find the best parameters that can detect the borders of circles
 - Use those parameters in Hough circle transformation
 
 ![Figure_1](https://user-images.githubusercontent.com/88426435/137601796-24f09b47-7332-44df-8b42-f9bf4fa11115.png)
 
-
 ## 🔖 Homework 4
+- Goal: Reconstruct the original image from the transformed image
+- Choose three landmarks 
+- Find the affine transformation matrix to reconstruct the original image
+
+![2](https://user-images.githubusercontent.com/88426435/137602162-32152f6c-5339-4b01-a93e-2f81f6460609.png)
+
+![Figure_1](https://user-images.githubusercontent.com/88426435/137602192-0ce64e2d-3502-4422-a47f-8fcae918faaf.png)
+
