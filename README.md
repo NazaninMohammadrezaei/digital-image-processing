@@ -15,8 +15,16 @@ Here we can see some of the projects I have done during my Digital Image Process
 ![Figure_1](https://user-images.githubusercontent.com/88426435/137598918-c16b2a50-b8be-4e08-92c9-49d6df3acf1a.png)
 
 ## 🔖 Homework 2
+- Applying bit plane slicing
+- Motion detection
+- Bit plane slicing on the image of an electrical board
 
+![Figure_1](https://user-images.githubusercontent.com/88426435/137601504-946d66dd-d9ca-4b55-9721-adbd1a2406ae.png)
 
+- Motion Detection : We compared 3 images with the help of their mostsignificate planes extracted through Bit plane slicing 
+- As we can see the difference of image NASA B and NASA C includes more white points, So the object movement was more considerable 
+
+![Figure_1](https://user-images.githubusercontent.com/88426435/137601630-1986f440-2a9f-43c2-8654-723d86adb999.png)
 
 ## 🔖 Homework 3
 
